@@ -24,4 +24,3 @@ Maximum Stress:
 Maximum Deformation:
 0.23847 mm (Magnesium Alloy)
 
-## Images
